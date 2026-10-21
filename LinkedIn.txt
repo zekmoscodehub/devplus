@@ -1,0 +1,12 @@
+LinkedIn Profile Project Description
+Add this text to the "Projects" section of your LinkedIn profile to showcase your engineering choices directly to recruiters searching for talent.
+Project Title: DevPulse // GitHub Developer Analytics Dashboard
+Associated with: Freelance / Frontend Engineer
+Description:
+Designed and engineered DevPulse, a high-performance web interface designed to transform raw developer data from the GitHub REST API into a scannable dashboard for tech recruiters.
+Key Technical Milestones:
+• Engineered a dual-fetch asynchronous logic loop using Vanilla JavaScript (ES6+) to pull profile stats and repository arrays concurrently.
+• Developed an elegant, responsive interface from scratch with Bootstrap 5 and Custom CSS3, ensuring accessibility on desktop and mobile viewports.
+• Implemented polished micro-interactions, including custom shimmering neon glowing language tags (cubic-bezier timing) and performance-focused skeleton loading states to optimize user retention metrics.
+• Created a dedicated "Recruiter Mode" component allowing talent acquisition specialists to benchmark my technical profile with a single click.
+Skills Demonstrated: Asynchronous JavaScript, Web API Integration, Responsive UI Design, CSS Animations, Mobile-First Performance.

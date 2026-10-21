@@ -1,0 +1,15 @@
+🚀 Stop parsing messy GitHub profiles.
+As a frontend developer, I know that tech recruiters spend hours jumping between multiple tabs trying to decode a candidate's actual coding skills, language distribution, and top open-source projects.
+To solve this, I built DevPulse ⚡ — a high-performance, single-page developer intelligence dashboard designed specifically for global talent acquisition teams.
+🔗 Live Link: [PASTE YOUR GITHUB PAGES LINK HERE]
+📂 Source Code: [PASTE YOUR REPOSITORY LINK HERE]
+💡 What is DevPulse?
+DevPulse taps directly into the GitHub REST API via asynchronous JavaScript to instantly analyze any public user account. It transforms raw, dense JSON profiles into a beautiful, scannable data card.
+🛠️ Engineering Highlights:
+• Asynchronous Multi-Fetching: Built entirely with Vanilla JavaScript (ES6+), utilizing async/await to pull profile metrics and repository data concurrently.
+• Smart Data Sorting: Engineered a client-side algorithm that dynamically filters up to 100 repositories, ranking and isolating the top 5 projects based on community engagement (stars/forks).
+• Premium UX & Micro-interactions: Built a modern glassmorphism UI using Bootstrap 5 and Custom CSS3. Features elegant shimmer effects, custom linear-gradient skeleton loaders to lower perceived latency, and a responsive mobile-first breakdown.
+• ⚡ Recruiter Mode Activated: I built a dedicated shortcut button just for you. Click it on the live site, and it will instantly load and audit my own developer footprint.
+I built this project to prove that you don't need a heavy framework to create lightning-fast, production-ready, and responsive web applications.
+Check out the short demo video below, or input your own GitHub username to test the data engine yourself! 👇
+#WebDevelopment #FrontendEngineer #JavaScript #Bootstrap #UIUX #OpenToWork #TechHiring #RemoteJobs #HTML5 #CSS3
